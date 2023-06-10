@@ -1,6 +1,9 @@
-* Hi there!
-* I'm Vu Van Dung, first name Dung, but [pronounced like Zung](https://en.wiktionary.org/wiki/Dũng)
-* Studying at [National University of Singapore](https://nus.edu.sg)
-* [Interested in modern web development](https://github.com/joulev/webapps), and the (bloated and over-engineered) JavaScript ecosystem as a whole
-* I'm a moderator on [the official Next.js Discord server](https://discord.gg/nextjs)
-* https://joulev.dev and [me@joulev.dev](mailto:me@joulev.dev)
+I am a software developer.
+
+In free time, I usually either work on side projects or learn about new stuff related to web development. Or just randomly walk around in a quiet park, because Singapore has a lot of them and I find them very peaceful.
+
+I almost always listen to music whenever I can. My taste ranges from beautiful classical masterpieces or movie soundtracks to catchy Japanese popular music.
+
+I am also active on Discord and you can find me as a moderator on [the official Next.js Discord server](https://nextjs.org/discord).
+
+Contact me at me@joulev.dev.
