@@ -4,6 +4,6 @@ In free time, I usually either work on side projects or learn about new stuff re
 
 I almost always listen to music whenever I can. My taste ranges from beautiful classical masterpieces or movie soundtracks to catchy Japanese popular music.
 
-I am also active on Discord and you can find me as a moderator on [the official Next.js Discord server](https://nextjs.org/discord).
+I am also active on Discord and you can find me as an active helper and moderator on [the official Next.js Discord server](https://nextjs.org/discord).
 
 Contact me at me@joulev.dev.
