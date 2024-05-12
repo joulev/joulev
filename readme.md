@@ -8,4 +8,4 @@ I almost always listen to music whenever I can. My taste ranges from beautiful c
 
 <!-- EXCLUDE -->
 
-[![joulev's GitHub stats](https://github-readme-stats.vercel.app/api?username=joulev&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![joulev's GitHub stats](https://github-readme-stats.vercel.app/api?username=joulev&theme=nord&hide_border=true&text_bold=false)](https://github.com/anuraghazra/github-readme-stats)
