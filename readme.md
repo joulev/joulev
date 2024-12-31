@@ -1,5 +1,3 @@
-**I am looking for full time opportunities starting May 2025 in Singapore.**
-
 <!-- START -->
 
 I am a software developer. I build things for the web, mostly using [Next.js](https://nextjs.org). Sometimes I also [contribute to Next.js](https://github.com/vercel/next.js/commits?author=joulev) itself, especially when I get bitten hard by a bug in the framework (which has happened more occasionally than I'd like it to).
